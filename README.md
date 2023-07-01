@@ -6,7 +6,7 @@
   
 ## install
 
-$ npm install native-echarts --save
+$ npm install @tomlyw/native-echarts --save
 
 ## Usage
 
@@ -27,7 +27,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Echarts from 'native-echarts';
+import Echarts from '@tomlyw/native-echarts';
 
 export default class app extends Component {
   render() {
@@ -77,7 +77,7 @@ Open the xcode project in the ios directory and click run
 
 screenshots：
 
-![image](https://github.com/somonus/react-native-echarts/blob/master/example/demoIOS.png)
+![image](https://github.com/TomLYW/react-native-echarts/blob/master/example/demoIOS.png)
 
 ### Android
 
@@ -85,8 +85,8 @@ Open the Android project in the android directory with Android Studio and click 
 
 screenshots：
 
-![image](https://github.com/somonus/react-native-echarts/blob/master/example/demoAndroid.png)
+![image](https://github.com/TomLYW/react-native-echarts/blob/master/example/demoAndroid.png)
 
 ## License
 
-native-echarts is released under the MIT license.
+@tomlyw/native-echarts is released under the MIT license.
